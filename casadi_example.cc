@@ -1,5 +1,5 @@
 /**
- * @file casadi_example.cpp
+ * @file casadi_example.cc
  * @brief 使用 CasADi C++ API 求解一个基本的非线性规划（NLP）问题。
  * @author Yueshuo Sun
  *
